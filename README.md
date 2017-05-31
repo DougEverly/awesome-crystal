@@ -284,6 +284,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [jwt](https://github.com/greyblake/crystal-jwt) - Implementation of JWT (JSON Web Token)
  * [msgpack-crystal](https://github.com/benoist/msgpack-crystal) - MessagePack library
  * [sctp-crystal](https://github.com/CodeSteak/sctp-crystal) - SCTP networking library
+ * [jsonfeed](https://github.com/DougEverly/jsonfeed.cr) - [JSON Feed](https://jsonfeed.org) parser & generator
 
 ## ORM/ODM Extensions
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
